@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ciaron 👋
 
-<!--
-**Ciarons/ciarons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![X (Twitter)](https://img.shields.io/badge/@ciarons-000000?style=flat&logo=x&logoColor=white)](https://x.com/ciarons) [![Discord](https://img.shields.io/badge/ciarons-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
-Here are some ideas to get you started:
+I build Python tools that solve real business problems. Currently working on automating inventory management workflows with Azure AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+**Asset Management Tool** — Inventory management system with automated pricing and AI image validation
+- Automated product data enrichment and pricing calculations
+- Azure Computer Vision integration for image quality control
+- Batch processing workflows for large inventories
+- Built with Python, CustomTkinter, Azure services
+
+## Recent work
+
+- Integrated Azure AI Vision for automated image validation
+- Built dynamic search with multiple query strategies and automatic fallback
+- Created pricing models that properly handle complex fee structures
+- Designed batch processing for high-volume operations
+
+## Tech I use
+
+Python • Azure (Blob Storage, Computer Vision) • CustomTkinter • PIL/Pillow • REST APIs • PowerShell
+
+## Currently exploring
+
+Working with Azure Cognitive Services to improve image validation accuracy and reduce manual QA time.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciarons&show_icons=true&theme=dark&hide_border=true)
