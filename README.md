@@ -23,5 +23,5 @@ Working with Azure Cognitive Services to improve image validation accuracy and r
 Python • Azure (Blob Storage, Computer Vision) • CustomTkinter • PIL/Pillow • REST APIs • PowerShell
 
 ## API's
-```https://serpapi.com/
-https://pypi.org/project/ddgs/```
+```https://serpapi.com/```
+```https://pypi.org/project/ddgs/```
