@@ -22,5 +22,6 @@ I build Python tools that solve real business problems. Currently working on aut
 Working with Azure Cognitive Services to improve image validation accuracy and reduce manual QA time.
 Python • Azure (Blob Storage, Computer Vision) • CustomTkinter • PIL/Pillow • REST APIs • PowerShell
 
-API's
-```https://serpapi.com/```
+## API's
+```https://serpapi.com/
+https://pypi.org/project/ddgs/```
