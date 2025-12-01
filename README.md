@@ -19,12 +19,5 @@ I build Python tools that solve real business problems. Currently working on aut
 - Created pricing models that properly handle complex fee structures
 - Designed batch processing for high-volume operations
 
-## Tech I use
-
-Python • Azure (Blob Storage, Computer Vision) • CustomTkinter • PIL/Pillow • REST APIs • PowerShell
-
-## Currently exploring
-
 Working with Azure Cognitive Services to improve image validation accuracy and reduce manual QA time.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ciarons&show_icons=true&theme=dark&hide_border=true)
+Python • Azure (Blob Storage, Computer Vision) • CustomTkinter • PIL/Pillow • REST APIs • PowerShell
