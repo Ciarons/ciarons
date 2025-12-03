@@ -12,6 +12,13 @@ I build Python tools that solve real business problems. Currently working on aut
 - Batch processing workflows for large inventories
 - Built with Python, CustomTkinter, Azure services
 
+## Hobbies
+- **1st Royal Marines** Regimental Database & Dashboard
+- Manage Users - profile per user.
+- Assign eliminations, medals, roles and ranks.
+- Discord Bot integration.
+- Raid Helper API sync.
+
 ## Recent work
 
 - Integrated Azure AI Vision for automated image validation
