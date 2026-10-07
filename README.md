@@ -3,21 +3,29 @@
 [![X (Twitter)](https://img.shields.io/badge/@ciarons-000000?style=flat&logo=x&logoColor=white)](https://x.com/ciarons)
 [![Discord](https://img.shields.io/badge/ciarons-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
-I build tools that solve real business problems, with a focus on ecommerce automation, inventory workflows, product data, and AI-assisted quality control.
+I design and build websites and advanced Discord bots, from the first layout through to the database and the deploy.
 
-Currently working with Python, PowerShell, Azure AI, REST APIs, React Native, Expo, and automation-heavy data workflows.
+Currently working with Python, discord.py, PostgreSQL, HTML, CSS, JavaScript, Docker, and Railway.
+
+## What I do
+
+- **Web design** — clean, responsive sites with their own typography and character
+- **Web development** — front end and back end, APIs, databases, Docker, and hosted deploys
+- **Advanced Discord bot development** — slash commands, buttons and forms, role automation, scheduled tasks, web dashboards, and third-party integrations
 
 ## Current work
 
-### Ecommerce Automation Platform
+### 1st Royal Marines
 
-Operational tooling for managing product data, SEO, categories, pricing, audits, and bulk ecommerce workflows.
+A full Discord bot and web platform for a Holdfast gaming regiment.
 
-- Bulk product description and SEO generation
-- Product category sorting and cleanup workflows
-- Pricing exports and marketplace data preparation
-- Live API scripts for product updates
-- Built mainly with PowerShell, Python, JSON, CSV workflows, REST APIs, and Google Apps Script
+- Custom Discord bot covering enlistment, role automation, medals, event sign-ups, moderation, and server logging
+- Web dashboard for officers, served by the bot, with analytics and publishing tools
+- In-server economy with its own web board, games, and leaderboards
+- Public website at [1stroyalmarines.com](https://1stroyalmarines.com), with news published straight from the dashboard
+- Built with Python, discord.py, aiohttp, PostgreSQL, HTML, CSS, JavaScript, Docker, nginx, and Railway
+
+## Past projects
 
 ### Mobile Commerce App
 
@@ -28,8 +36,6 @@ A mobile shopping app for browsing and buying products from an ecommerce store.
 - Mobile-first UI built with React Native and Expo
 - Browser-based purchase handoff from the app
 - Built with JavaScript, React Native, Expo, React Navigation, Node.js, and REST APIs
-
-## Past projects
 
 ### Inventory Management Tool
 
@@ -42,21 +48,17 @@ Inventory management system with automated pricing, product data enrichment, and
 
 ## Recent work
 
-- Integrated Azure AI Vision for automated image validation
-- Built dynamic search with multiple query strategies and automatic fallback
-- Created pricing models that handle complex fee structures
-- Designed batch processing for high-volume inventory operations
-- Built ecommerce scripts for product SEO, descriptions, categories, and data cleanup
+- Built an enlistment pipeline with live analytics, birthday collection, and automatic role assignment
+- Created a medals system and officer dashboard for awards and publishing
+- Built threaded server logs, including deleted and edited messages with their images
+- Designed an in-server economy with a web board, games, and leaderboards
+- Built the regiment's public website, with news published from the bot's dashboard
 - Developed a React Native mobile app connected to a live ecommerce store
 
 ## I'm using
 
-**Languages:** Python, PowerShell, JavaScript, HTML, CSS, SQL basics
+**Languages:** Python, JavaScript, HTML, CSS, SQL, PowerShell
 
-**Frameworks and tools:** React Native, Expo, CustomTkinter, PIL/Pillow, Node.js, Git, GitHub, VS Code
+**Frameworks and tools:** discord.py, aiohttp, React Native, Expo, Node.js, Docker, nginx, Git, GitHub, VS Code
 
-**Cloud and APIs:** Azure Blob Storage, Azure Computer Vision, ecommerce REST APIs, Google Apps Script, REST APIs
-
-## APIs and integrations
-
-Ecommerce REST APIs • Azure Computer Vision • Azure Blob Storage • Google Apps Script • SerpApi • ddgs
+**Data, cloud, and APIs:** PostgreSQL, Railway, Discord API, Google Sheets API, Azure Computer Vision, REST APIs
